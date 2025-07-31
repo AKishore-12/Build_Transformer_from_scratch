@@ -10,6 +10,7 @@ n_embd = 384
 dropout = 0.2
 max_iters = 5000
 eval_interval = 500
+eval_iters = 500
 learning_rate = 3e-4
 n_head = 6
 n_layer = 6
